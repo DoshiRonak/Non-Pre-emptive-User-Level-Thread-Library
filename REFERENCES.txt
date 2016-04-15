@@ -1,0 +1,8 @@
+1) http://nitish712.blogspot.in/2012/10/thread-library-using-context-switching.html
+For the understanding of Context Routines, syntax and calls
+
+2) http://gribblelab.org/CBootcamp/12_Compiling_linking_Makefile_header_files.html
+To get information on Makefiles
+
+3) https://www.cs.bu.edu/teaching/c/queue/linked-list/types.html
+For better understanding of Queue as linked list
